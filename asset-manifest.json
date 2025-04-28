@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/flikklanding/static/css/main.67eca0c4.css",
-    "main.js": "/flikklanding/static/js/main.cd30ed96.js",
+    "main.css": "/flikklanding/static/css/main.fd9ee4e0.css",
+    "main.js": "/flikklanding/static/js/main.581e96da.js",
     "index.html": "/flikklanding/index.html",
-    "main.67eca0c4.css.map": "/flikklanding/static/css/main.67eca0c4.css.map",
-    "main.cd30ed96.js.map": "/flikklanding/static/js/main.cd30ed96.js.map"
+    "main.fd9ee4e0.css.map": "/flikklanding/static/css/main.fd9ee4e0.css.map",
+    "main.581e96da.js.map": "/flikklanding/static/js/main.581e96da.js.map"
   },
   "entrypoints": [
-    "static/css/main.67eca0c4.css",
-    "static/js/main.cd30ed96.js"
+    "static/css/main.fd9ee4e0.css",
+    "static/js/main.581e96da.js"
   ]
 }
